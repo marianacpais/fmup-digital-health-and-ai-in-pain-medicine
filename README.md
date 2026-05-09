@@ -1,19 +1,19 @@
 # Digital Health Strategies in Pain Management
 
-> **🇵🇹 Apresentação · 8 de maio de 2026 · FMUP / MEDCIDS**
-> **🇬🇧 Lecture · 8 May 2026 · FMUP / MEDCIDS**
+> **🇵🇹 Sessão de 3 horas · 8 de maio de 2026 · FMUP**
+> **🇬🇧 3-hour session · 8 May 2026 · FMUP**
 
-🔗 **[Ver apresentação · View slides →](https://marianacpais.github.io/medcids-digital-health-and-ai-pain/)**
+🔗 **[Ver apresentação · View slides →](https://marianacpais.github.io/fmup-digital-health-and-ai-in-pain-medicine/)**
 
 ---
 
 ## 🇵🇹 Português
 
-Sessão de **três horas** preparada para a unidade curricular **["Digital Health Strategies in Pain Management"](https://sigarra.up.pt/fmup/pt/cur_geral.cur_view?pv_curso_id=1129)**, leccionada na Faculdade de Medicina da Universidade do Porto (FMUP), no âmbito do MEDCIDS — Departamento de Medicina da Comunidade, Informação e Decisão em Saúde.
+Slides de uma sessão de **3 horas** lecionada no âmbito da **[Pós-Graduação em Medicina da Dor](https://sigarra.up.pt/fmup/pt/cur_geral.cur_view?pv_curso_id=1129)** (PGMDOR) da Faculdade de Medicina da Universidade do Porto.
 
 A sessão percorre, do concreto da prática clínica para o panorama regulatório:
 
-- **Bloco I — Fundamentos de dados em medicina da dor.** Que dados capturamos sobre doentes com dor, estrutura do registo electrónico, *Patient-Reported Outcomes*, wearables e biomarcadores digitais, fontes de dados para além da clínica.
+- **Bloco I — Fundamentos de dados em medicina da dor.** Que dados capturamos sobre doentes com dor, estrutura do registo eletrónico, *Patient-Reported Outcomes*, wearables e biomarcadores digitais, fontes de dados para além da clínica.
 - **Bloco I.5 — Padronização e interoperabilidade.** O problema da fragmentação, a necessidade de standards (HL7 FHIR, SNOMED CT, ICD, openEHR, OHDSI/OMOP), qualidade dos dados, geração de evidência, OMOP CDM em detalhe, EHDS (European Health Data Space), princípios FAIR, análise federada, governance.
 - **Bloco II — De dados a evidência em investigação na dor.** RWD vs RWE, RCTs vs estudos observacionais, fenotipagem, definição de coortes, *small data* vs *big data*, desafios da RWE, STaRT-RWE.
 - **Bloco III A — IA, fundamentos.** O que é IA, contexto histórico, AI ⊃ ML ⊃ DL ⊃ LLMs, paradigmas de aprendizagem, redes neuronais, anatomia de um LLM, multimodalidade, escala dos modelos, IA generativa, limites (escopo, viés, caixa preta).
@@ -36,12 +36,13 @@ python3 -m http.server 8765
 | `assets/styles.css` | Tema FMUP |
 | `assets/*.png` `*.jpg` | Imagens, logos, screenshots |
 | `assets/mariana-photo.png` | Retrato (slide *Who am I?*) |
+| `.github/workflows/deploy-pages.yml` | Deploy automático para GitHub Pages a cada push em `main` |
 
 ---
 
 ## 🇬🇧 English
 
-**Three-hour session** prepared for the course **["Digital Health Strategies in Pain Management"](https://sigarra.up.pt/fmup/pt/cur_geral.cur_view?pv_curso_id=1129)**, taught at the Faculty of Medicine of the University of Porto (FMUP), within MEDCIDS — Department of Community Medicine, Information and Health Decision Sciences.
+Slides for a **3-hour session** delivered as part of the **[Postgraduate Programme in Pain Medicine](https://sigarra.up.pt/fmup/pt/cur_geral.cur_view?pv_curso_id=1129)** (PGMDOR) at the Faculty of Medicine of the University of Porto (FMUP).
 
 The session moves from concrete clinical practice to the regulatory landscape:
 
