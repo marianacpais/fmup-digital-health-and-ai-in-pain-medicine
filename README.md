@@ -19,7 +19,7 @@ A sessão percorre, do concreto da prática clínica para o panorama regulatóri
 - **Bloco III A — IA, fundamentos.** O que é IA, contexto histórico, AI ⊃ ML ⊃ DL ⊃ LLMs, paradigmas de aprendizagem, redes neuronais, anatomia de um LLM, multimodalidade, escala dos modelos, IA generativa, limites (escopo, viés, caixa preta).
 - **Bloco III B — IA na prática.** *Reality check* sobre dispositivos médicos com IA aprovados pela FDA (1 357 ao todo, dos quais 23 em "anestesiologia"), AI Act, três reflexões sobre o papel do clínico, considerações éticas.
 
-A apresentação está construída em **Reveal.js** com a especificação visual **[FMUP](https://github.com/marianacpais/mcp-personal-headquarters/tree/main/claude/design-md/fmup)** (amarelo `#FED517`, preto, *Inter*).
+A apresentação está construída em **Reveal.js** com a especificação visual **FMUP** (amarelo `#FED517`, preto, *Inter*) — definida em [`mcp-personal-headquarters/claude/design-md/fmup/`](https://github.com/marianacpais/mcp-personal-headquarters/tree/main/claude/design-md/fmup) 🔒 *repo privado*.
 
 ### Pré-visualização local
 
@@ -52,7 +52,7 @@ The session moves from concrete clinical practice to the regulatory landscape:
 - **Block III A — AI fundamentals.** What is AI, historical context, AI ⊃ ML ⊃ DL ⊃ LLMs, learning paradigms, neural networks, anatomy of an LLM, multimodality, model scaling, generative AI, limits (scope, bias, black box).
 - **Block III B — AI in practice.** Reality check on FDA-approved AI medical devices (1,357 in total, of which 23 in "anesthesiology"), AI Act, three reflections on the clinician's role, ethical considerations.
 
-Built in **Reveal.js** using the **[FMUP visual spec](https://github.com/marianacpais/mcp-personal-headquarters/tree/main/claude/design-md/fmup)** (yellow `#FED517`, black, *Inter*).
+Built in **Reveal.js** using the **FMUP visual spec** (yellow `#FED517`, black, *Inter*) — defined in [`mcp-personal-headquarters/claude/design-md/fmup/`](https://github.com/marianacpais/mcp-personal-headquarters/tree/main/claude/design-md/fmup) 🔒 *private repo*.
 
 ### Local preview
 
@@ -67,4 +67,4 @@ python3 -m http.server 8765
 
 Slides © Mariana Canelas Pais, 2026. Embedded screenshots, charts and figures retain their original sources — credited in-slide where applicable.
 
-The visual identity (FMUP design system) is defined in the parent repository [`mcp-personal-headquarters`](https://github.com/marianacpais/mcp-personal-headquarters).
+The visual identity (FMUP design system) is defined in the parent repository [`mcp-personal-headquarters`](https://github.com/marianacpais/mcp-personal-headquarters) 🔒 *private repo — internal source of truth*.
